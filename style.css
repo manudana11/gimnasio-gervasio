@@ -1,0 +1,11 @@
+table {
+    border-collapse: collapse;
+}
+
+td, th, table {
+    border: 1px black solid;
+}
+
+h1 {
+    color: greenyellow;
+}
