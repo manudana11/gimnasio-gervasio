@@ -1,5 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    }    
+
 table {
+    margin: 15px;
     border-collapse: collapse;
+    width: 550px;
+    height: 400px;
 }
 
 td, th, table {
@@ -7,6 +18,16 @@ td, th, table {
 }
 
 h1 {
+    text-align: left;
     color: greenyellow;
 }
 
+td, th {
+    width: 25%;
+    margin: 5px;
+    text-align: left;
+} 
+
+img {
+    height: 250px;
+}
